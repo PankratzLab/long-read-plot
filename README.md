@@ -1,2 +1,2 @@
 # long-read-plot
-Plots for long read sequencing data
+Not currently under development, see https://github.com/jlanej/long-read-plot for now
