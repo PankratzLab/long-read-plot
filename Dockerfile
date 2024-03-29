@@ -7,4 +7,3 @@ ENV BASE=/app/
 WORKDIR ${BASE}
 COPY ./ ${BASE}
 CMD ["Rscript", "longReadPlot.R"]
-
